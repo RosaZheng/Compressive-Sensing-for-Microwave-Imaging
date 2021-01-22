@@ -9,12 +9,13 @@ The user Instruction was written by Xiahan Yang Nov 2014.
 
 For further information, please contact Dr. Y. Rosa Zheng at yrz218@lehigh.edu, tel: 610-758-5499.
 
-Matlab Files:
-CS3.m: the top matlab script to run the package
-CS3.fig: GUI for the package
+**Matlab Files:**
+
+CS3.m: the top matlab script to run the package \\
+CS3.fig: GUI for the package \\
 perform_CS.m: function called by CS3.m to perform the conjugate gradient algorithm for compressive sensing image recovery 
 
-Reference papers:
+**Reference papers:**
 
 H. Kajbaf, J.T. Case, Z. Yang, and Y.R. Zheng, “Compressed Sensing for SAR-Based Wideband Three-dimensional Microwave Imaging System Using Nonuniform Fast Fourier Transform,” IET Radar, Sonar and Navigation, vol. 7, no. 6, pp. 658 – 670, July 2013.
 
