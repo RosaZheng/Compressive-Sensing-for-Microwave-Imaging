@@ -11,8 +11,10 @@ For further information, please contact Dr. Y. Rosa Zheng at yrz218@lehigh.edu, 
 
 **Matlab Files:**
 
-CS3.m: the top matlab script to run the package \\
-CS3.fig: GUI for the package \\
+CS3.m: the top matlab script to run the package 
+
+CS3.fig: GUI for the package 
+
 perform_CS.m: function called by CS3.m to perform the conjugate gradient algorithm for compressive sensing image recovery 
 
 **Reference papers:**
